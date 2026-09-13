@@ -1,5 +1,14 @@
-# 💫 About Me:
-Improving my programming and problem-solving skills<br>AI/ML and beginner-friendly projects<br>Machine Learning and Data Structures<br>Python, SQL, DSA, Pandas, NumPy and Machine Learning<br>Python, C++, SQL and my learning journey<br>I enjoy learning new technologies and building things from scratch
+# 👋 Hi, I'm Shubham Kumar Agarwal
+
+### 🎓 AI & Machine Learning Student | 💻 Aspiring AI/ML Developer
+
+I'm building my foundation in programming, problem-solving, and Artificial Intelligence.
+
+- 🌱 Currently learning **Python, C++, Java, SQL, DSA, NumPy & Pandas**
+- 🤖 Exploring **Machine Learning & Artificial Intelligence**
+- 🗄️ Strengthening my knowledge of **DBMS & SQL**
+- 💻 Practicing **Data Structures & Algorithms**
+- 🎯 Working towards becoming an **AI/ML Developer**
 
 
 ## 🌐 Socials:
